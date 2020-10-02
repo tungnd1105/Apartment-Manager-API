@@ -1,0 +1,1523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b492cbf9-77b7-47ab-b984-c61cf315b799" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/poly/com/security/CustomUserDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/poly/com/api/PriceElectricityAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/poly/com/api/PriceElectricityAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/poly/com/api/PriceGarbageAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/poly/com/api/PriceGarbageAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/poly/com/api/PriceManagementAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/poly/com/api/PriceManagementAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/poly/com/api/PriceParkingAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/poly/com/api/PriceParkingAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/poly/com/api/PriceWaterAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/poly/com/api/PriceWaterAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/poly/com/controller/ApartmentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/poly/com/controller/BillController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/poly/com/controller/EmployeeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/poly/com/controller/LoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/poly/com/controller/OwnApartmetController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/poly/com/controller/PriceController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/poly/com/controller/ResdentialController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/poly/com/controller/ResetPasswordController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/poly/com/controller/UiController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/poly/com/controller/WelcomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/poly/com/security/UserDetailServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/poly/com/security/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/poly/com/security/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/poly/com/service/ResetPasswordService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/poly/com/service/ResetPasswordService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/login/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/login/img/avatar.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/login/img/undraw_Security_on_ff2u.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/login/img/wave.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/login/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/image/someone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/js/authentication.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/js/bang-gia/giadien.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/js/bang-gia/gianuoc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/js/bang-gia/phi-xe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/js/bang-gia/phiquanly.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/js/bang-gia/phirac.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/js/can-ho/canho.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/js/chu-ho/chu-ho.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/js/cu-dan/cudan.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/js/cu-dan/xe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/js/find-data-select.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/js/gui-email/email.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/js/helper/formatdata.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/js/helper/sweetalert2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/js/helper/toastr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/js/hoa-don/chua-thanh-toan/danh-sach.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/js/hoa-don/detail.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/js/hoa-don/export-excel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/js/hoa-don/hoadon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/js/hoa-don/view-detail.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/js/nhan-vien/account.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/js/nhan-vien/doi-mat-khau.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/js/nhan-vien/reset-password.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/js/nhan-vien/table-nhanvien.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/js/nhan-vien/update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/js/noi-quy/noiquy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/js/thong-bao/form-thongbao.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/js/thong-bao/thongbao.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/CHANGES.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/adapters/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/build-config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/ckeditor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/contents.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/af.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/ar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/az.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/bg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/bn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/bs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/cs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/da.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/de-ch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/el.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/en-au.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/en-ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/en-gb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/en.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/eo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/es-mx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/es.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/et.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/eu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/fa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/fi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/fo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/fr-ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/fr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/gl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/gu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/he.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/hi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/hr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/hu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/id.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/is.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/it.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/ja.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/ka.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/km.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/ko.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/ku.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/lt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/lv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/mk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/mn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/ms.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/nb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/nl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/no.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/oc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/pl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/pt-br.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/pt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/ro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/ru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/si.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/sk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/sl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/sq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/sr-latn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/sr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/sv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/th.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/tr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/tt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/ug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/uk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/vi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/zh-cn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/lang/zh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/a11yhelp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/_translationstatus.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/af.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/ar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/az.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/bg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/cs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/da.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/de-ch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/el.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/en-au.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/en-gb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/en.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/eo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/es-mx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/es.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/et.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/eu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/fa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/fi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/fo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/fr-ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/fr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/gl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/gu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/he.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/hi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/hr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/hu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/id.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/it.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/ja.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/km.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/ko.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/ku.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/lt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/lv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/mk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/mn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/nb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/nl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/no.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/oc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/pl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/pt-br.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/pt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/ro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/ru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/si.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/sk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/sl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/sq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/sr-latn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/sr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/sv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/th.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/tr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/tt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/ug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/uk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/vi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/zh-cn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/a11yhelp/dialogs/lang/zh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/about/dialogs/about.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/about/dialogs/hidpi/logo_ckeditor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/about/dialogs/logo_ckeditor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/clipboard/dialogs/paste.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/colordialog/dialogs/colordialog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/colordialog/dialogs/colordialog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/copyformatting/cursors/cursor-disabled.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/copyformatting/cursors/cursor.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/copyformatting/styles/copyformatting.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/dialog/dialogDefinition.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/dialog/styles/dialog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/div/dialogs/div.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/find/dialogs/find.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/flash/dialogs/flash.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/flash/images/placeholder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/forms/dialogs/button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/forms/dialogs/checkbox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/forms/dialogs/form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/forms/dialogs/hiddenfield.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/forms/dialogs/radio.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/forms/dialogs/select.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/forms/dialogs/textarea.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/forms/dialogs/textfield.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/forms/images/hiddenfield.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/icons_hidpi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/iframe/dialogs/iframe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/iframe/images/placeholder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/image/dialogs/image.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/image/images/noimage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/link/dialogs/anchor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/link/dialogs/link.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/link/images/anchor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/link/images/hidpi/anchor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/liststyle/dialogs/liststyle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/magicline/images/hidpi/icon-rtl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/magicline/images/hidpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/magicline/images/icon-rtl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/magicline/images/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/pagebreak/images/pagebreak.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/pastefromgdocs/filter/default.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/pastefromword/filter/default.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/pastetools/filter/common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/pastetools/filter/image.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/preview/images/pagebreak.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/preview/preview.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/preview/styles/screen.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/scayt/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/scayt/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/scayt/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/scayt/dialogs/dialog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/scayt/dialogs/options.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/scayt/dialogs/toolbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/showblocks/images/block_address.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/showblocks/images/block_blockquote.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/showblocks/images/block_div.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/showblocks/images/block_h1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/showblocks/images/block_h2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/showblocks/images/block_h3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/showblocks/images/block_h4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/showblocks/images/block_h5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/showblocks/images/block_h6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/showblocks/images/block_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/showblocks/images/block_pre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/smiley/dialogs/smiley.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/smiley/images/angel_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/smiley/images/angel_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/smiley/images/angry_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/smiley/images/angry_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/smiley/images/broken_heart.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/smiley/images/broken_heart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/smiley/images/confused_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/smiley/images/confused_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/smiley/images/cry_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/smiley/images/cry_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/smiley/images/devil_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/smiley/images/devil_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/smiley/images/embaressed_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/smiley/images/embarrassed_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/smiley/images/embarrassed_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/smiley/images/envelope.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/smiley/images/envelope.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/smiley/images/heart.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/smiley/images/heart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/smiley/images/kiss.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/smiley/images/kiss.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/smiley/images/lightbulb.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/smiley/images/lightbulb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/smiley/images/omg_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/smiley/images/omg_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/smiley/images/regular_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/smiley/images/regular_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/smiley/images/sad_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/smiley/images/sad_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/smiley/images/shades_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/smiley/images/shades_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/smiley/images/teeth_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/smiley/images/teeth_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/smiley/images/thumbs_down.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/smiley/images/thumbs_down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/smiley/images/thumbs_up.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/smiley/images/thumbs_up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/smiley/images/tongue_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/smiley/images/tongue_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/smiley/images/tounge_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/smiley/images/whatchutalkingabout_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/smiley/images/whatchutalkingabout_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/smiley/images/wink_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/smiley/images/wink_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/_translationstatus.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/af.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/ar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/az.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/bg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/cs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/da.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/de-ch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/el.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/en-au.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/en-ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/en-gb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/en.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/eo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/es-mx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/es.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/et.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/eu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/fa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/fi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/fr-ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/fr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/gl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/he.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/hr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/hu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/id.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/it.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/ja.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/km.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/ko.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/ku.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/lt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/lv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/nb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/nl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/no.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/oc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/pl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/pt-br.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/pt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/ro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/ru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/si.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/sk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/sl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/sq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/sr-latn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/sr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/sv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/th.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/tr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/tt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/ug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/uk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/vi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/zh-cn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/lang/zh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/specialchar/dialogs/specialchar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/table/dialogs/table.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/tableselection/styles/tableselection.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/tabletools/dialogs/tableCell.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/templates/dialogs/templates.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/templates/dialogs/templates.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/templates/templates/default.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/templates/templates/images/template1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/templates/templates/images/template2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/templates/templates/images/template3.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/widget/images/handle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/wsc/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/wsc/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/wsc/dialogs/ciframe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/wsc/dialogs/tmpFrameset.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/wsc/dialogs/wsc.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/wsc/dialogs/wsc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/wsc/dialogs/wsc_ie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/plugins/wsc/skins/moono-lisa/wsc.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/css/samples.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/img/github-top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/img/header-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/img/header-separator.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/img/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/img/navigation-tip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/js/sample.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/js/sf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/old/ajax.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/old/api.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/old/appendto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/old/assets/inlineall/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/old/assets/outputxhtml/outputxhtml.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/old/assets/posteddata.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/old/assets/sample.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/old/assets/uilanguages/languages.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/old/datafiltering.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/old/dialog/assets/my_dialog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/old/dialog/dialog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/old/divreplace.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/old/enterkey/enterkey.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/old/htmlwriter/assets/outputforflash/outputforflash.fla" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/old/htmlwriter/assets/outputforflash/outputforflash.swf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/old/htmlwriter/assets/outputforflash/swfobject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/old/htmlwriter/outputforflash.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/old/htmlwriter/outputhtml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/old/inlineall.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/old/inlinebycode.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/old/inlinetextarea.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/old/jquery.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/old/magicline/magicline.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/old/readonly.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/old/replacebyclass.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/old/replacebycode.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/old/sample.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/old/sample.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/old/sample_posteddata.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/old/tabindex.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/old/toolbar/toolbar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/old/uicolor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/old/uilanguages.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/old/wysiwygarea/fullpage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/old/xhtmlstyle.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/toolbarconfigurator/css/fontello.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/toolbarconfigurator/font/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/toolbarconfigurator/font/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/toolbarconfigurator/font/fontello.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/toolbarconfigurator/font/fontello.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/toolbarconfigurator/font/fontello.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/toolbarconfigurator/font/fontello.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/toolbarconfigurator/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/toolbarconfigurator/js/abstracttoolbarmodifier.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/toolbarconfigurator/js/fulltoolbareditor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/toolbarconfigurator/js/toolbarmodifier.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/toolbarconfigurator/js/toolbartextmodifier.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/toolbarconfigurator/lib/codemirror/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/toolbarconfigurator/lib/codemirror/codemirror.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/toolbarconfigurator/lib/codemirror/codemirror.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/toolbarconfigurator/lib/codemirror/javascript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/toolbarconfigurator/lib/codemirror/neo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/toolbarconfigurator/lib/codemirror/show-hint.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/samples/toolbarconfigurator/lib/codemirror/show-hint.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/skins/moono-lisa/dialog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/skins/moono-lisa/dialog_ie.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/skins/moono-lisa/dialog_ie8.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/skins/moono-lisa/dialog_iequirks.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/skins/moono-lisa/editor.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/skins/moono-lisa/editor_gecko.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/skins/moono-lisa/editor_ie.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/skins/moono-lisa/editor_ie8.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/skins/moono-lisa/editor_iequirks.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/skins/moono-lisa/icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/skins/moono-lisa/icons_hidpi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/skins/moono-lisa/images/arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/skins/moono-lisa/images/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/skins/moono-lisa/images/hidpi/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/skins/moono-lisa/images/hidpi/lock-open.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/skins/moono-lisa/images/hidpi/lock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/skins/moono-lisa/images/hidpi/refresh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/skins/moono-lisa/images/lock-open.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/skins/moono-lisa/images/lock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/skins/moono-lisa/images/refresh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/skins/moono-lisa/images/spinner.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/skins/moono-lisa/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/styles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/ckeditor/vendor/promise.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/css/atlantis.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/css/atlantis.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/css/atlantis.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/css/demo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/css/error.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/css/fonts.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/css/fonts.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/fonts/flaticon/Flaticon.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/fonts/flaticon/Flaticon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/fonts/flaticon/Flaticon.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/fonts/flaticon/Flaticon.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/fonts/flaticon/_flaticon.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/fonts/flaticon/flaticon.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/fonts/flaticon/flaticon.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/fonts/fontawesome/fa-brands-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/fonts/fontawesome/fa-brands-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/fonts/fontawesome/fa-brands-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/fonts/fontawesome/fa-brands-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/fonts/fontawesome/fa-brands-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/fonts/fontawesome/fa-regular-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/fonts/fontawesome/fa-regular-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/fonts/fontawesome/fa-regular-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/fonts/fontawesome/fa-regular-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/fonts/fontawesome/fa-regular-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/fonts/fontawesome/fa-solid-900.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/fonts/fontawesome/fa-solid-900.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/fonts/fontawesome/fa-solid-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/fonts/fontawesome/fa-solid-900.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/fonts/fontawesome/fa-solid-900.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/fonts/simple-line-icons/Simple-Line-Icons.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/fonts/simple-line-icons/Simple-Line-Icons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/fonts/simple-line-icons/Simple-Line-Icons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/fonts/simple-line-icons/Simple-Line-Icons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/fonts/simple-line-icons/Simple-Line-Icons.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/fonts/summernote/summernote.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/fonts/summernote/summernote.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/fonts/summernote/summernote.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/403.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/arashmil.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/bg-404.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/bg-abstract.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/bg-abstract2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/blogpost.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/boy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/chadengle.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/examples/example1-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/examples/example1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/examples/example10-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/examples/example10.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/examples/example11-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/examples/example11.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/examples/example12-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/examples/example12.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/examples/example2-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/examples/example2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/examples/example3-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/examples/example3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/examples/example4-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/examples/example4.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/examples/example5-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/examples/example5.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/examples/example6-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/examples/example6.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/examples/example7-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/examples/example7.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/examples/example8-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/examples/example8.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/examples/example9-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/examples/example9.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/examples/logoinvoice.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/examples/product1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/examples/product10.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/examples/product11.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/examples/product12.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/examples/product2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/examples/product3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/examples/product4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/examples/product5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/examples/product6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/examples/product7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/examples/product8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/ad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/ae.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/af.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/ag.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/ai.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/al.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/am.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/an.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/ao.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/ar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/as.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/at.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/au.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/aw.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/ax.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/az.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/ba.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/bb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/bd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/be.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/bf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/bh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/bi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/bj.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/bm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/bn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/bo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/br.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/bs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/bt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/bv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/bw.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/by.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/bz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/ca.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/catalonia.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/cc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/cd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/cf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/cg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/ch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/ci.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/ck.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/cl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/cm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/cn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/co.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/cr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/cs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/cu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/cv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/cx.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/cy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/cz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/de.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/dj.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/dk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/dm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/do.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/dz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/ec.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/ee.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/eg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/eh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/england.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/er.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/es.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/et.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/europeanunion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/fam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/fi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/fj.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/fk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/fm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/fo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/fr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/ga.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/gb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/gd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/ge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/gf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/gh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/gi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/gl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/gm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/gn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/gp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/gq.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/gr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/gs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/gt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/gu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/gw.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/gy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/hk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/hm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/hn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/hr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/ht.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/hu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/id.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/ie.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/il.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/io.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/iq.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/ir.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/is.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/it.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/jm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/jo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/jp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/ke.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/kg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/kh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/ki.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/km.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/kn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/kp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/kr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/kw.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/ky.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/kz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/la.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/lb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/lc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/li.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/lk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/lr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/ls.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/lt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/lu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/lv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/ly.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/ma.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/mc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/md.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/me.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/mg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/mh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/mk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/ml.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/mm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/mn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/mo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/mp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/mq.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/mr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/ms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/mt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/mu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/mv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/mw.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/mx.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/my.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/mz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/na.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/nc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/ne.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/nf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/ng.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/ni.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/nl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/no.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/np.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/nr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/nu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/nz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/om.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/pa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/pe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/pf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/pg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/ph.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/pk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/pl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/pm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/pn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/pr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/ps.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/pt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/pw.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/py.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/qa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/re.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/ro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/rs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/ru.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/rw.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/sa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/sb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/sc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/scotland.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/sd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/se.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/sg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/sh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/si.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/sj.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/sk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/sl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/sm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/sn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/so.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/sr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/st.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/sv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/sy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/sz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/tc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/td.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/tf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/tg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/th.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/tj.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/tk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/tl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/tm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/tn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/to.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/tr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/tt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/tv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/tw.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/tz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/ua.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/ug.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/um.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/us.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/uy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/uz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/va.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/vc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/ve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/vg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/vi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/vn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/vu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/wales.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/wf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/ws.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/ye.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/yt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/za.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/zm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/flags/zw.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/icon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/img-shadow.gvdesign" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/img-shadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/jm_denis.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/logo1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/logo2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/logo_admin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/logoalternatif.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/logoproduct.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/logoproduct2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/logoproduct3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/mlane.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/productimg/product1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/productimg/product2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/productimg/product3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/productimg/product4.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/productimg/product5.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/productimg/product6.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/productimg/product7.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/productimg/product8.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/productimg/product9.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/profile.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/profile2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/sauro.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/talha.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/img/visa.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/atlantis.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/atlantis.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/atlantis2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/core/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/core/jquery-3.5.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/core/jquery.3.2.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/core/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/demo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/plugin/bootstrap-notify/bootstrap-notify.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/plugin/chart-circle/circles.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/plugin/chart.js/chart.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/plugin/datatables/datatables.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/plugin/jquery-scrollbar/jquery.scrollbar.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/plugin/jquery-ui-1.12.1.custom/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/plugin/jquery-ui-touch-punch/jquery.ui.touch-punch.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/plugin/jquery.sparkline/jquery.sparkline.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/plugin/jqvmap/jquery.vmap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/plugin/jqvmap/maps/continents/jquery.vmap.africa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/plugin/jqvmap/maps/continents/jquery.vmap.asia.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/plugin/jqvmap/maps/continents/jquery.vmap.australia.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/plugin/jqvmap/maps/continents/jquery.vmap.europe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/plugin/jqvmap/maps/continents/jquery.vmap.north-america.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/plugin/jqvmap/maps/continents/jquery.vmap.south-america.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/plugin/jqvmap/maps/jquery.vmap.algeria.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/plugin/jqvmap/maps/jquery.vmap.argentina.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/plugin/jqvmap/maps/jquery.vmap.brazil.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/plugin/jqvmap/maps/jquery.vmap.canada.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/plugin/jqvmap/maps/jquery.vmap.croatia.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/plugin/jqvmap/maps/jquery.vmap.europe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/plugin/jqvmap/maps/jquery.vmap.france.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/plugin/jqvmap/maps/jquery.vmap.germany.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/plugin/jqvmap/maps/jquery.vmap.greece.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/plugin/jqvmap/maps/jquery.vmap.indonesia.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/plugin/jqvmap/maps/jquery.vmap.iran.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/plugin/jqvmap/maps/jquery.vmap.iraq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/plugin/jqvmap/maps/jquery.vmap.new_regions_france.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/plugin/jqvmap/maps/jquery.vmap.russia.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/plugin/jqvmap/maps/jquery.vmap.serbia.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/plugin/jqvmap/maps/jquery.vmap.tunisia.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/plugin/jqvmap/maps/jquery.vmap.turkey.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/plugin/jqvmap/maps/jquery.vmap.ukraine.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/plugin/jqvmap/maps/jquery.vmap.usa.counties.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/plugin/jqvmap/maps/jquery.vmap.usa.districts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/plugin/jqvmap/maps/jquery.vmap.usa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/plugin/jqvmap/maps/jquery.vmap.world.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/plugin/sweetalert/sweetalert2@9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/plugin/toastr/toastr.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/plugin/toastr/toastr.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/plugin/toastr/toastr.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/plugin/webfont/webfont.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/setting-demo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/js/setting-demo2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis/_background.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis/_components.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis/_flaticon.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis/_font-awesome.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis/_layouts-colors.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis/_layouts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis/_opacity.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis/_outlinefocus.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis/_plugins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis/_responsive-horizontal.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis/_responsive.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis/_typography.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis/components/_activityfeed.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis/components/_alerts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis/components/_avatars.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis/components/_badges.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis/components/_breadcrumbs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis/components/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis/components/_cards.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis/components/_charts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis/components/_colorinputs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis/components/_dropdowns.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis/components/_gutters.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis/components/_imagecheck.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis/components/_inputs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis/components/_listgroup.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis/components/_loader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis/components/_maps.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis/components/_modals.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis/components/_navbars.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis/components/_navsearch.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis/components/_navtabs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis/components/_paginations.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis/components/_popovers.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis/components/_progress.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis/components/_selectgroup.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis/components/_sliders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis/components/_stamps.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis/components/_tables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis/components/_timeline.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis/plugins/_animate.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis/plugins/_datatables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis/plugins/_jqueryscrollbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis/plugins/_jqueryui.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/quanly/vendor/sass/atlantis/plugins/_sweetalert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/animate/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/animsition/animsition.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/animsition/js/animsition.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/animsition/js/animsition.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/countdowntime/countdowntime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/css-hamburgers/hamburgers.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/css/error.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/css/util.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/daterangepicker/daterangepicker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/daterangepicker/daterangepicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/daterangepicker/moment.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/font/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/font/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/font/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/font/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/font/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/font/Linearicons-Free-v1.0.0/icon-font.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/font/font-googleapis.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/font/font-icon-googleapis.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/font/fontawesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/font/fontawesome.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/font/poppins/Poppins-Black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/font/poppins/Poppins-BlackItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/font/poppins/Poppins-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/font/poppins/Poppins-BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/font/poppins/Poppins-ExtraBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/font/poppins/Poppins-ExtraBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/font/poppins/Poppins-ExtraLight.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/font/poppins/Poppins-ExtraLightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/font/poppins/Poppins-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/font/poppins/Poppins-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/font/poppins/Poppins-LightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/font/poppins/Poppins-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/font/poppins/Poppins-MediumItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/font/poppins/Poppins-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/font/poppins/Poppins-SemiBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/font/poppins/Poppins-SemiBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/font/poppins/Poppins-Thin.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/font/poppins/Poppins-ThinItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/font/solid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/font/solid.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/popper/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/popper/popper.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/select2/select2.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/select2/select2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/validate-jquery/additional-methods.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/resetpassword/validate-jquery/jquery.validate.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/403.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/account/form-thong-tin-tai-khoan.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/components/custom-template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/components/head.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/components/main-header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/components/sidebar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/layout-admin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/login/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/quanly/bang-gia/table-gia-dien.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/quanly/bang-gia/table-gia-nuoc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/quanly/bang-gia/table-phi-quan-ly.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/quanly/bang-gia/table-phi-rac.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/quanly/bang-gia/table-phi-xe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/quanly/can-ho/table-can-ho.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/quanly/chu-ho/table-chu-can-ho.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/quanly/cu-dan/table-cu-dan.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/quanly/cu-dan/table-xe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/quanly/form-gui-email.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/quanly/hoa-don/chua-thanh-toan/danh-sach.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/quanly/hoa-don/chua-thanh-toan/hoa-don-chi-tiet.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/quanly/hoa-don/hoa-don-chi-tiet.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/quanly/hoa-don/table-hoa-don.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/quanly/nhan-vien/form-doi-mat-khau.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/quanly/nhan-vien/form-update-nhanvien.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/quanly/nhan-vien/table-nhan-vien.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/quanly/noi-quy/noiquy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/quanly/thong-bao/form-thong-bao.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/quanly/thong-bao/table-thong-bao.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/resetpassword/form-check-email.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/resetpassword/form-reset-password.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="CLEAR_OUTPUT_DIRECTORY" value="false" />
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="tung" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="tung" />
+                    <option name="lastUsedInstant" value="1597888545" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="dev" />
+                    <option name="lastUsedInstant" value="1597888525" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fwYP4HySe80tZq2FlPZZufvdbe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowDebug.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/poly/com/security" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\GitHubWeb\Apartment-Manager\src\main\resources\templates" />
+      <recent name="F:\GitHubWeb\Apartment-Manager\src\main\resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\GitHubWeb\Apartment-Manager - Copy\src\main\java\poly\com\security" />
+      <recent name="F:\GitHubWeb\Apartment-Manager - Copy\src\main\java\poly\com\security\services" />
+      <recent name="F:\GitHubWeb\Apartment-Manager - Copy\src\main\java\poly\com\api" />
+      <recent name="F:\GitHubWeb\Apartment-Manager\src\main\resources\firebase" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install" />
+      <command value="mvn clean install " />
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ApartmentManagementApplication">
+    <configuration name="build jar" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="package" />
+                <option value="-DskipTests" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="ApartmentManagementApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Apartment-Management" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="poly.com.ApartmentManagementApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.build jar" />
+      <item itemvalue="Spring Boot.ApartmentManagementApplication" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b492cbf9-77b7-47ab-b984-c61cf315b799" name="Default Changelist" comment="" />
+      <created>1597130594542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597130594542</updated>
+      <workItem from="1597130604463" duration="3796000" />
+      <workItem from="1597218299015" duration="454000" />
+      <workItem from="1597327149951" duration="325000" />
+      <workItem from="1597330096787" duration="1292000" />
+      <workItem from="1597372875701" duration="256000" />
+      <workItem from="1597373483046" duration="1527000" />
+      <workItem from="1597387373647" duration="3244000" />
+      <workItem from="1597391197938" duration="826000" />
+      <workItem from="1597412592112" duration="6260000" />
+      <workItem from="1597456459854" duration="1548000" />
+      <workItem from="1597461270153" duration="408000" />
+      <workItem from="1597461715412" duration="174000" />
+      <workItem from="1597466770758" duration="2596000" />
+      <workItem from="1597474095476" duration="2148000" />
+      <workItem from="1597491035103" duration="9304000" />
+      <workItem from="1597504429014" duration="1126000" />
+      <workItem from="1597557054695" duration="1704000" />
+      <workItem from="1597564445817" duration="7985000" />
+      <workItem from="1597577134631" duration="1341000" />
+      <workItem from="1597595621765" duration="133000" />
+      <workItem from="1597631676042" duration="1814000" />
+      <workItem from="1597663257184" duration="129000" />
+      <workItem from="1597830118014" duration="455000" />
+      <workItem from="1597833501028" duration="756000" />
+      <workItem from="1597843178431" duration="1768000" />
+      <workItem from="1597888127911" duration="6431000" />
+      <workItem from="1597895642536" duration="1896000" />
+      <workItem from="1597907634147" duration="135000" />
+      <workItem from="1597908946003" duration="43000" />
+      <workItem from="1597909538370" duration="2246000" />
+      <workItem from="1597930908172" duration="1417000" />
+      <workItem from="1597997145939" duration="2895000" />
+      <workItem from="1598017133964" duration="243000" />
+      <workItem from="1598061505596" duration="270000" />
+      <workItem from="1598061994862" duration="1000000" />
+      <workItem from="1598085931876" duration="2447000" />
+      <workItem from="1598099347825" duration="224000" />
+      <workItem from="1598109751814" duration="199000" />
+      <workItem from="1598194945778" duration="407000" />
+      <workItem from="1598231937452" duration="1663000" />
+      <workItem from="1598233916860" duration="117000" />
+      <workItem from="1598242543850" duration="62000" />
+      <workItem from="1598242738070" duration="9570000" />
+      <workItem from="1598255817665" duration="4273000" />
+      <workItem from="1598372779765" duration="60000" />
+      <workItem from="1598405563235" duration="881000" />
+      <workItem from="1598419371289" duration="513000" />
+      <workItem from="1598428018438" duration="1296000" />
+      <workItem from="1598456634353" duration="404000" />
+      <workItem from="1599470981608" duration="87000" />
+      <workItem from="1599552944429" duration="238000" />
+      <workItem from="1601534735867" duration="6526000" />
+      <workItem from="1601544415788" duration="3548000" />
+    </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1597372935836</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597372935836</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fix lỗi đường dẫn">
+      <created>1597390578568</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597390578568</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add firebase to project &#10;save image user to storage.googleapis.com">
+      <created>1597461397998</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597461397998</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fix upload image user">
+      <created>1597476228750</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1597476228751</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fix giao diện">
+      <created>1597500233545</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1597500233545</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update">
+      <created>1597565285656</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1597565285656</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update">
+      <created>1597574581149</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1597574581151</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update">
+      <created>1597888295522</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1597888295522</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update">
+      <created>1597911694951</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1597911694951</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update">
+      <created>1598087736694</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1598087736694</updated>
+    </task>
+    <task id="LOCAL-00011" summary="fix">
+      <created>1598088218256</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1598088218256</updated>
+    </task>
+    <task id="LOCAL-00012" summary="update">
+      <created>1598233984720</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1598233984720</updated>
+    </task>
+    <task id="LOCAL-00013" summary="valid exist token">
+      <created>1598259426196</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1598259426196</updated>
+    </task>
+    <task id="LOCAL-00014" summary="fix image">
+      <created>1598429006667</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1598429006667</updated>
+    </task>
+    <task id="LOCAL-00015" summary="update">
+      <created>1598429269349</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1598429269349</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix lỗi đường dẫn" />
+    <MESSAGE value="add firebase to project &#10;save image user to storage.googleapis.com" />
+    <MESSAGE value="fix upload image user" />
+    <MESSAGE value="fix giao diện" />
+    <MESSAGE value="fix" />
+    <MESSAGE value="valid exist token" />
+    <MESSAGE value="fix image" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="163" y="0" key="#Project_Structure" timestamp="1601534838960">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="163" y="0" key="#Project_Structure/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1601534838960" />
+    <state x="137" y="23" width="1101" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597466828250">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="137" y="23" width="1101" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1597466828250" />
+    <state x="488" y="75" key="#com.intellij.ide.util.MemberChooser" timestamp="1601535499125">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="488" y="75" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1601535499125" />
+    <state x="466" y="237" width="433" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1598247550079">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="466" y="237" width="433" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.738@0.0.1366.738" timestamp="1598247550079" />
+    <state x="478" y="250" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1598428666372">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="478" y="250" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.738@0.0.1366.738" timestamp="1598428666372" />
+    <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601536976629">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1601536976629" />
+    <state x="129" y="55" key="DiffContextDialog" timestamp="1598456992938">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="129" y="55" key="DiffContextDialog/0.0.1366.738@0.0.1366.738" timestamp="1598456992938" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1601535245200">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1601535245200" />
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1599553194066" />
+    <state width="1323" height="321" key="GridCell.Tab.0.bottom" timestamp="1601548006415">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="321" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1601548006415" />
+    <state width="1323" height="320" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1598429326362" />
+    <state width="1323" height="321" key="GridCell.Tab.0.center" timestamp="1601548006415">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="321" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1601548006415" />
+    <state width="1323" height="320" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1598429326362" />
+    <state width="1323" height="321" key="GridCell.Tab.0.left" timestamp="1601548006415">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="321" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1601548006415" />
+    <state width="1323" height="320" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1598429326362" />
+    <state width="1323" height="321" key="GridCell.Tab.0.right" timestamp="1601548006415">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="321" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1601548006415" />
+    <state width="1323" height="320" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1598429326362" />
+    <state width="1323" height="321" key="GridCell.Tab.1.bottom" timestamp="1601548006415">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="321" key="GridCell.Tab.1.bottom/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1601548006415" />
+    <state width="1323" height="320" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1598429326362" />
+    <state width="1323" height="321" key="GridCell.Tab.1.center" timestamp="1601548006415">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="321" key="GridCell.Tab.1.center/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1601548006415" />
+    <state width="1323" height="320" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1598429326362" />
+    <state width="1323" height="321" key="GridCell.Tab.1.left" timestamp="1601548006415">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="321" key="GridCell.Tab.1.left/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1601548006415" />
+    <state width="1323" height="320" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1598429326362" />
+    <state width="1323" height="321" key="GridCell.Tab.1.right" timestamp="1601548006415">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="321" key="GridCell.Tab.1.right/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1601548006415" />
+    <state width="1323" height="320" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1598429326362" />
+    <state width="1323" height="213" key="GridCell.Tab.2.bottom" timestamp="1598265655313">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="213" key="GridCell.Tab.2.bottom/0.0.1366.738@0.0.1366.738" timestamp="1598265655313" />
+    <state width="1323" height="213" key="GridCell.Tab.2.center" timestamp="1598265655313">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="213" key="GridCell.Tab.2.center/0.0.1366.738@0.0.1366.738" timestamp="1598265655313" />
+    <state width="1323" height="213" key="GridCell.Tab.2.left" timestamp="1598265655313">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="213" key="GridCell.Tab.2.left/0.0.1366.738@0.0.1366.738" timestamp="1598265655313" />
+    <state width="1323" height="213" key="GridCell.Tab.2.right" timestamp="1598265655313">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="213" key="GridCell.Tab.2.right/0.0.1366.738@0.0.1366.738" timestamp="1598265655313" />
+    <state x="184" y="13" key="SettingsEditor" timestamp="1601535311763">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="13" key="SettingsEditor/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1601535311763" />
+    <state x="184" y="13" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1598372813344" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1598456994706">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1598456994706" />
+    <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597461439451">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1597461439451" />
+    <state x="0" y="0" width="586" height="738" key="find.popup" timestamp="1597412984085">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="0" y="0" width="586" height="738" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1597412984085" />
+    <state x="484" y="157" key="git4idea.merge.GitMergeDialog" timestamp="1597888451124">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="484" y="157" key="git4idea.merge.GitMergeDialog/0.0.1366.738@0.0.1366.738" timestamp="1597888451124" />
+    <state x="374" y="157" key="git4idea.merge.GitPullDialog" timestamp="1598456893258">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="374" y="157" key="git4idea.merge.GitPullDialog/0.0.1366.738@0.0.1366.738" timestamp="1598456893258" />
+    <state x="72" y="50" key="new project wizard" timestamp="1598419885567">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="72" y="50" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1598419885567" />
+    <state x="339" y="165" width="672" height="677" key="run.anything.popup" timestamp="1601534870545">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="165" width="672" height="677" key="run.anything.popup/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1601534870545" />
+    <state x="339" y="165" width="672" height="677" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1597574272226" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1598248414813">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1598248414813" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="employee" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
